@@ -3,6 +3,9 @@
 Project title: 안구 인식 기반 졸음, 깜빡임 탐지
 Method: 시각지능 CNN/LSTM 기반 연구
 
+JINO DONGHYUN Put the new code.
+
+
 code:
 
 import cv2
