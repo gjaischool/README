@@ -1,6 +1,6 @@
 # 핵심 역랑 프로젝트
 
-Project title: 안구 인식 기반 졸음, 깜빡임 탐지
+Project title: 안구 인식 기반 졸음 탐지 앱 구현
 Method: 시각지능 CNN/LSTM 기반 연구
 
 code:
